@@ -1,6 +1,7 @@
 apiVersion: v2
 name: karla
 description: A Helm chart for Kubernetes
+icon: file:///home/kernella/Pictures/Git_Repburn.jpg
 
 # A chart can be either an 'application' or a 'library' chart.
 #
